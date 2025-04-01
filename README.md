@@ -1,2 +1,2 @@
-# arc-tmsi
-Administração de Redes no TMSI
+# Administração de Redes
+Conteúdos e Atividades da disciplina Administração de Redes no TMSI.
